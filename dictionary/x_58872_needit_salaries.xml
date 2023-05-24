@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9d4e088197472110a87d3e2e6253af7a" label="Salaries" max_length="40" name="x_58872_needit_salaries" type="collection">
+        <element default="None" label="Company" mandatory="true" max_length="40" name="company" type="string"/>
+        <element default="0" label="TopSalary" mandatory="true" max_length="40" name="topsalary" type="integer"/>
+    </element>
+</database>
