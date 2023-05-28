@@ -37,7 +37,7 @@
   // If the When needed date is before rightnow, do not write the record to the database
   // Output an error message to the screen
   if(whenNeeded.before(rightnow)){
-    gs.addErrorMessage("When needed date cannot be in the past.  Your request has not been saved to the database.");
+    gs.addErrorMessage("11When needed date cannot be in the past.  Your request has not been saved to the database.");
     current.setAbortAction(true);
   }
 
