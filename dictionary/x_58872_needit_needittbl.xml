@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a746160e97cb2110a87d3e2e6253afda" label="NeedItTbl" max_length="40" name="x_58872_needit_needittbl" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Time" max_length="40" name="time" type="glide_date_time"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+    </element>
+</database>
